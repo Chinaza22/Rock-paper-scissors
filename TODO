@@ -1,7 +1,8 @@
 
-Todo:
-  ✔ create html @done(22-06-23 19:33)
-  ✔ write the logic of the @done(22-06-23 20:44)
-  ✔ comment your code @done(22-06-23 20:51)
-  ☐ stage on github
-  ☐ push to github
+
+Archive:
+  ✔ create html @done(22-06-23 19:33) @project(Todo)
+  ✔ write the logic of the js @done(22-06-23 20:44) @project(Todo)
+  ✔ comment your code @done(22-06-23 20:51) @project(Todo)
+  ✔ stage on github @done(22-06-23 20:54) @project(Todo)
+  ✔ push to github @done(22-06-23 20:54) @project(Todo)
